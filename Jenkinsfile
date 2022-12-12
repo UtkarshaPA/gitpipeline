@@ -10,7 +10,7 @@ pipeline
 
 	steps
 	{
-		echo"this is stage one 22Q2"
+		echo"this is stage one 22Q3"
 	}
 	}
 
@@ -20,7 +20,7 @@ pipeline
 
 	steps
 	{
-		echo"this is stage two 22Q2"
+		echo"this is stage two 22Q3"
 	}
 	}
 
@@ -30,7 +30,7 @@ pipeline
 
 	steps
 	{
-		echo"this is stage three 22Q2"
+		echo"this is stage three 22Q3"
 	}
 	}
   }
