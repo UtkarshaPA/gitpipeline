@@ -10,7 +10,7 @@ pipeline
 
 	steps
 	{
-		echo"this is stage one"
+		echo"this is stage scm one"
 	}
 	}
 
@@ -20,7 +20,7 @@ pipeline
 
 	steps
 	{
-		echo"this is stage two"
+		echo"this is stage scm two"
 	}
 	}
 
@@ -30,7 +30,7 @@ pipeline
 
 	steps
 	{
-		echo"this is stage three"
+		echo"this is stage scm three"
 	}
 	}
   }
